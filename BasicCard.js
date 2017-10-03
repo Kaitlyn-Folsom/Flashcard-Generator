@@ -6,9 +6,6 @@ var clozeCards = require("./ClozeCard.json");
 
 var fs = require("fs");
 
-// console.log(myCards);
-console.log(clozeCards);
-
 //===============START=============//
 
 var cardCount = 0;
@@ -115,7 +112,7 @@ function takeClozeQuiz() {
             message: clozeCards[cardCount].clozeDeleted
         }]).then(function(data) {
             if (data.userGuess === clozeCards[cardCount].cloze) {
-                console.log("You are correct! " + clozeCards[cardCount].partial);
+                console.log("You are correct! \n" + clozeCards[cardCount].partial);
                 cardCount++;
                 correctAnswers++;
                 takeClozeQuiz();
