@@ -1,0 +1,28 @@
+
+[
+  {
+    "partial": "China is the worlds most popululous country?",
+    "cloze": "china",
+    "clozeDeleted": ".....is the worlds most popululous country?" 
+  },
+  {
+    "partial": "Chile is the name of the long, narrow country on South America’s Pacific coast?",
+    "cloze": "chile",
+    "clozeDeleted": ".... is the name of the long, narrow country on South America’s Pacific coast?" 
+  },
+  {
+    "partial": "Thailand is a country said to be shaped like an elephant’s head?",
+    "cloze": "thailand",
+    "clozeDeleted": ".....is a country said to be shaped like an elephant’s head?" 
+  },
+  {
+    "partial": "Venezuela is home to the worlds highest waterfall?",
+    "cloze": "venezuela",
+    "clozeDeleted": ".......is home to the worlds highest waterfall?" 
+  },
+  {
+    "partial": "Nairobi is the capital of Kenya?",
+    "cloze": "kenya",
+    "clozeDeleted": "Nairobi is the capital of.....?"
+  }
+]
