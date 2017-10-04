@@ -5,7 +5,7 @@ A backend node app for a basic flashcard application using an API that allows us
 * Basic - Cards conataining a front and a back
 * Cloze - Cards containing partial-text, and the full text when the user rquests it.
 
-![Start App](/images/ScreenShot-1.png)
+![Start App](/Images/ScreenShot-1.png)
 
 ### Add Basic Card
 
@@ -15,7 +15,7 @@ The user can add their own Basic Card to the deck.
 
 ### Show Basic Cards
 
-Their are already hardcoded cards in the file. This will show all cards including any cards the user has added.
+There are already hardcoded cards in the file. This will show all cards including any cards the user has added.
 
 !(/images/ScreenShot_ShowBasic.png)
 
