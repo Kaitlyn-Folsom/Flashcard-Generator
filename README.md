@@ -39,4 +39,4 @@ The front of the card is asked and the user enters their answer. If the user's a
 
 The partial question is asked and the user enters their answer. If they are correct or incorrect the full sentence will be shown. When all cards are used it will display the total number of correct and incorrect answers.
 
-![Cloze Quiz](/images/ScreenShot_ClozeQuiz.png)
+![Cloze Quiz](/Images/ScreenShot_ClozeQuiz.png)
