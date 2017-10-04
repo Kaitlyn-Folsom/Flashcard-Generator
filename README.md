@@ -5,36 +5,38 @@ A backend node app for a basic flashcard application using an API that allows us
 * Basic - Cards conataining a front and a back
 * Cloze - Cards containing partial-text, and the full text when the user rquests it.
 
-(/images/ScreenShot-1.png)
+!(/images/ScreenShot-1.png)
 
 ### Add Basic Card
 
 The user can add their own Basic Card to the deck. 
 
-img (show adding card)
+!(/images/ScreenShot_AddBasic.png)
 
 ### Show Basic Cards
 
 Their are already hardcoded cards in the file. This will show all cards including any cards the user has added.
 
-img (list of cards)
+!(/images/ScreenShot_ShowBasic.png)
 
-* Note: added user card at the end
+* Note: added user card has been added
 
 ### Take Quiz
 
 When "Take Quiz" is chosen the user will be asked to choose between taking either the "Basic Card" or "Cloze Card Quiz".
 
-img(choose between basic or cloze)
+!(/images/ScreenShot_ChooseQuiz)
 
 #### Basic Card Quiz
 
-A full question is asked and the user enters their answer. They will be prompted if they are correct or incorrect. When all cards are used it will display total number of correct and incorrect answers.
+The front of the card is asked and the user enters their answer. If the user's answer matches the back of the card they will told they are correct. If their answer is incorrect, they will be told the correct answer. When all cards are used it will display the total number of correct and incorrect answers.
 
-img(basic card quiz)
+!(/images/ScreenShot_BasicQuiz)
+
+* Note: added user card has been shown
 
 #### Cloze Card Quiz
 
-A 
+The partial question is asked and the user enters their answer. If they are correct or incorrect the full sentence will be shown. When all cards are used it will display the total number of correct and incorrect answers.
 
-img(cloze card quiz)
+!(/images/ScreenShot_ClozeQuiz)
