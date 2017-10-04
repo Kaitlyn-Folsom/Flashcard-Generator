@@ -5,7 +5,7 @@ A backend node app for a basic flashcard application using an API that allows us
 * Basic - Cards conataining a front and a back
 * Cloze - Cards containing partial-text, and the full text when the user rquests it.
 
-![alt text](/images/ScreenShot-1.png "Start App")
+![Start App](/images/ScreenShot-1.png)
 
 ### Add Basic Card
 
@@ -25,7 +25,7 @@ Their are already hardcoded cards in the file. This will show all cards includin
 
 When "Take Quiz" is chosen the user will be asked to choose between taking either the "Basic Card" or "Cloze Card Quiz".
 
-!(/images/ScreenShot_ChooseQuiz)
+!(/images/ScreenShot_ChooseQuiz.png)
 
 #### Basic Card Quiz
 
